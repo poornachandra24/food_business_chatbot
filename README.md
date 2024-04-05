@@ -51,10 +51,10 @@ The food business chatbot for pandeyji's eatery is a comprehensive solution for 
     - It must respond to WebhookRequest requests with a JSON WebhookResponse body. 
 
     Ngrok tunnels are temporary and only last as long as the Ngrok session is active. Once the session is terminated (usually by stopping Ngrok or restarting your machine), the tunnel will be closed, and the forwarding URL will no longer be accessible.
-    ![alt text](image-1.png)
+    ![alt text](output_images\image-1.png)
 
     provide the HTTPS URL here
-    ![alt text](image.png)
+   ![alt text](output_images\image.png)
 
 ## UI/UX:
 HTML-CSS was used to build a simple web page layout with navigation links, sections for different content, and an embedded chatbot.
