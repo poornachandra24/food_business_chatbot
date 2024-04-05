@@ -38,9 +38,11 @@ The food business chatbot for pandeyji's eatery is a comprehensive solution for 
     
 6. **Run the application:**
     Start the server by executing 
-        ```bash
+        ```
         uvicorn main:app --reload
+        ```
     
+
     Ngrok is being used here to create a secure tunnel to expose a local server (running on http://localhost:8000) to the internet i.e HTTP is forwared as HTTPS. This was necessary to meet diagflow webhook service requirements.
     Webhook service requirements are as follows:
     - The following requirements must be met by your webhook service:
