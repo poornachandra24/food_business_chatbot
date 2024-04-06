@@ -60,7 +60,7 @@ HTML-CSS was used to build a simple web page layout with navigation links, secti
 
 Here is a demo of the embedded chatbot:
 
-[![Chatbot Demo](https://x.com/iris24244242/status/1776126326195245254)](https://x.com/iris24244242/status/1776126326195245254)
+[![Chatbot Demo video link](https://x.com/iris24244242/status/1776126326195245254)](https://x.com/iris24244242/status/1776126326195245254)
 
 ## Usage
 
